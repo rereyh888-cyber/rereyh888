@@ -2,7 +2,7 @@
 I am a passionate 3rd-year Information Systems student at the College of Information and Computing Sciences (CICS) of Mindanao State University, a journalism enthusiast, peace advocate, and youth leader dedicated to using technology, communication, and leadership to create positive impact in the community. I enjoy building real-world systems, collaborating with teams, and continuously improving my technical, creative, and leadership skills through academic, media, and community-based initiatives.
 
 
-### 🌸 About Me
+## 🌸 About Me
 
 🎓 Currently pursuing my Bachelor's Degree in Information Systems as a 3rd-year student at Mindanao State University.  
 
